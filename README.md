@@ -4,6 +4,8 @@ YouTube video: https://www.youtube.com/watch?v=I9t9GyitCkU <br>
 
 ![image](https://github.com/siddhanthiyer-99/Rhapsody/assets/47019139/89146066-dbbf-4a37-8546-3b8edccca11d)
 
+# Virtual Piano <br>
+![](https://github.com/siddhanthiyer-99/Rhapsody/blob/main/Piano.gif)
 <h2> Steps to run: </h2>
 
 1. Create a Python 3.6 Environment (Anaconda recommended): <br>
