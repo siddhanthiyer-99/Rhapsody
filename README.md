@@ -4,17 +4,15 @@ An AI-driven web applications project that generates melodic audio based on the 
 
 <h2> Steps to run: </h2>
 
-1. Create a Python 3.6 Environment (Anaconda recommended):
+1. Create a Python 3.6 Environment (Anaconda recommended): <br>
 conda create -n <env_name> python=3.6
 
-2. Activate the environment created:
+2. Activate the environment created: <br>
 conda activate <env_name>
 
 3. Install requirements.txt
 pip install -r requirements.txt
 
-4. Copy csoundSession.py and ctcsound.py from AA/ctcsound to C:/Users/anaconda/envs/lib/python3.6/site-packages
+4. Open CMD in the current directory
 
-5. Open CMD in the current directory
-
-6. Run the command: python main.py
+5. Run the command: python main.py
