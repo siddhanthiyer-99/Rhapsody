@@ -10,7 +10,7 @@ conda create -n <env_name> python=3.6
 2. Activate the environment created: <br>
 conda activate <env_name>
 
-3. Install requirements.txt
+3. Install requirements.txt <br>
 pip install -r requirements.txt
 
 4. Open CMD in the current directory
