@@ -1,5 +1,5 @@
-An AI-driven web applications project that generates melodic audio based on the first 5 piano notes given by the user using Deep Learning concepts such as LSTMs (Long Short-Term Memory) <br>
-Medium Article: https://tinyurl.com/y5p3yjjg <br>
+An AI-driven web applications project that generates melodic audio based on the first 5 piano notes given by the user using Deep Learning concepts such as LSTMs (Long Short-Term Memory) <br> <br>
+Medium Article: https://tinyurl.com/y5p3yjjg <br> 
 YouTube video: https://www.youtube.com/watch?v=I9t9GyitCkU <br>
 
 ![image](https://github.com/siddhanthiyer-99/Rhapsody/assets/47019139/89146066-dbbf-4a37-8546-3b8edccca11d)
